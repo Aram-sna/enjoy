@@ -1,3 +1,4 @@
+print("for you")
 import turtle as t
 t.bgcolor("#112332")
 t.pencolor("#fdca87")
@@ -29,3 +30,4 @@ t.down()
 t.write("هلیا", font=("Urdu Typesetting", 80, "normal"))
 t.hideturtle()
 t.done()
+print("enjoy")
